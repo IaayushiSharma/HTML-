@@ -16,7 +16,7 @@
   border: 3px solid gray;
 }
 
-.top {
+#textvieww {
   background-color: rgb(32, 32, 32);
   width: 100%;
   margin: 0;
@@ -28,6 +28,7 @@
   font-size: 350%;
   font-stretch: expanded;
   margin-bottom: 6%;
+  overflow: hidden;
 }
 .bottom {
   padding: 4%;
